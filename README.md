@@ -1,3 +1,7 @@
+# how_to_communicate
+
+Notes on communication :lips:
+
 Slow down.
 
 Maximize the message fidelity.
