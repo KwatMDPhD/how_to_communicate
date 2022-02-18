@@ -1,6 +1,6 @@
 # how_to_communicate
 
-Notes on communication :lips:
+Communication cheatsheet :lips:
 
 Slow down.
 
