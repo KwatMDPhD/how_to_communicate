@@ -1,7 +1,5 @@
 # how_to_communicate
 
-Communication cheatsheet :lips:
-
 Slow down.
 
 Maximize the message fidelity.
